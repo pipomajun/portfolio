@@ -3,7 +3,7 @@ export const attributes = {
     firstButton: {
       icon: 'briefcase-outline',
       link: '/#portofolio',
-      text: 'My work',
+      text: 'My projects',
     },
     heading: "I'm Pipo, and I create",
     image: '/img/hero.jpeg',
@@ -82,5 +82,5 @@ export const attributes = {
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© Philipp Ma' },
 };
