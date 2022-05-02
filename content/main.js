@@ -27,17 +27,17 @@ export const attributes = {
   features: [
     {
       icon: 'monitor-screenshot',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'I will help you provide the most amazing UI/UX for your future customers.\n',
       title: 'UI/UX',
     },
     {
       icon: 'draw',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'Need a fresh looking logo? I got you covered!\n',
       title: 'Logo Design',
     },
     {
       icon: 'xml',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'I will create the most amazing website for you!\n',
       title: 'Web Development',
     },
   ],
